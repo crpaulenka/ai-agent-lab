@@ -40,13 +40,13 @@ IMPORTANT_KEYWORDS = [
     "contract",
     "board",
     "meeting",
-    "resident",
     "violation",
     "compliance",
     "project",
     "maintenance",
     "invoice",
     "inspection",
+]
 ]
 
 
